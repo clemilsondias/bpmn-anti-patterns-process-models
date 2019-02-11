@@ -17,3 +17,4 @@ Id    Anti-pattern
 8.     Each swimlane in the pool contains start event
 9.     Exception flow is not connected to the exception
 10.    Message flow misuse across swimlanes
+
