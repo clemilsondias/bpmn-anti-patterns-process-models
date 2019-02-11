@@ -6,9 +6,9 @@ These are the *anti-patterns* we were able to model through one of the selected 
 
 Id  |  Anti-pattern
 --- | -------------
-01.     Activities in one pool are not connected
+01|    Activities in one pool are not connected
 
-02.     The event does not contain an end event
+02|     The event does not contain an end event
 
 03.     Sequence flow crosses sub-process boundary
 
