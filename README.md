@@ -7,6 +7,7 @@ These are the anti-patterns we were able to model through one of the selected BP
 Id    Anti-pattern
 ==========================================================
 1     Activities in one pool are not connected
+
 2     The event does not contain an end event
 3     Sequence flow crosses sub-process boundary
 4     Sequence flow crosses pool boundary
